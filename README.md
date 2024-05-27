@@ -1,0 +1,10 @@
+# Screenshots
+![screenshot-000192](https://github.com/kokonut79/Sound-Visualizer/assets/33176648/6167ab0b-5fab-4116-8c67-d6c5bea9d606)
+![screenshot-002906](https://github.com/kokonut79/Sound-Visualizer/assets/33176648/176599a2-d27f-45c5-875f-426c0a8ef31c)
+![screenshot-002948](https://github.com/kokonut79/Sound-Visualizer/assets/33176648/a0d6e846-bc13-4162-9c85-9148ba026f5e)
+![screenshot-002033](https://github.com/kokonut79/Sound-Visualizer/assets/33176648/a0a116db-98ec-49bc-b7af-c9b9f5f87c87)
+![screenshot-002129](https://github.com/kokonut79/Sound-Visualizer/assets/33176648/d86b8492-f8a7-4ea9-8781-d40188e5ddf3)
+![screenshot-002238](https://github.com/kokonut79/Sound-Visualizer/assets/33176648/be3bcefc-3eef-4181-a57f-0b271ba3e32b)
+![screenshot-000432](https://github.com/kokonut79/Sound-Visualizer/assets/33176648/1b3aba70-86b8-4022-9a71-c918ad60a4e8)
+![screenshot-000505](https://github.com/kokonut79/Sound-Visualizer/assets/33176648/f2f198f3-170a-4f68-888f-94deb989d0ec)
+![screenshot-001417](https://github.com/kokonut79/Sound-Visualizer/assets/33176648/57fb2a0c-a847-41e2-a8af-dfdb565ebb96)
